@@ -26,6 +26,8 @@ Yu'ang Chen
 
 - Bo Peng (MPhil student, 2026 -- )
 
+- Ziyang Gong (MPhil student, 2026 -- ) 
+
 - Jinghan Hu (UG student, 2025 -- )
 
 - Chengkun Luo (UG student, 2025 -- )
