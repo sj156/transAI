@@ -1,5 +1,6 @@
 # transAI: AI-powered Urban Transportation Systems
 We are building the next generation of AI-powered urban transportation systems: modeling how people and vehicles move, predicting congestion before it happens, evaluating public transit networks for fairness and resilience, and simulating policy impacts through digital twins. 
+
 See how to join us on the [CUHK(SZ) website](https://sai.cuhk.edu.cn/en/page/189).  
 
 ## Focused Research Area(s)
