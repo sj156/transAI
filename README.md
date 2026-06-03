@@ -20,15 +20,15 @@ Ying Wu
 Yu'ang Chen 
 
 ## Current Students 
-Jingning Yao (PhD student, 2025 -- )
+- Jingning Yao (PhD student, 2025 -- )
 
-Ke Zhao (PhD student, 2025 -- )
+- Ke Zhao (PhD student, 2025 -- )
 
-Bo Peng (MPhil student, 2026 -- )
+- Bo Peng (MPhil student, 2026 -- )
 
-Jinghan Hu (UG student, 2025 -- )
+- Jinghan Hu (UG student, 2025 -- )
 
-Chengkun Luo (UG student, 2025 -- )
+- Chengkun Luo (UG student, 2025 -- )
 
 ## Alumni  
 
@@ -36,14 +36,14 @@ Chengkun Luo (UG student, 2025 -- )
 
 ## Capstone projects
 2025 Spring, 
-Traffic Congestion Tracing and Evolution Analysis Based on Simulated Individual Trajectory Data. 
+- Traffic Congestion Tracing and Evolution Analysis Based on Simulated Individual Trajectory Data. 
 [Poster](https://github.com/sj156/transAI/blob/main/capstone-assets/2025SpringCapstonePoster.pdf) 
 
 2026 Spring, 
--- Resilience Assessment and Vulnerability Analysis of Beijing Public Transportation System. 
+- Resilience Assessment and Vulnerability Analysis of Beijing Public Transportation System. 
 [Poster](https://github.com/sj156/transAI/blob/main/capstone-assets/2026SpringCapstonePosterSys.pdf)  
 
--- 
+-  
 ## MPhil projects 
 
 ## Papers 
