@@ -35,10 +35,13 @@ Chengkun Luo (UG student, 2025 -- )
 # Projects and Publications 
 
 ## Capstone projects
-2025 Spring, poster 
+2025 Spring, 
+Traffic Congestion Tracing and Evolution Analysis Based on Simulated Individual Trajectory Data
+[poster](https://github.com/sj156/transAI/blob/main/capstone-assets/Poster_A1_0418.pdf) 
 
 2026 Spring, 
--- Transilience 
+-- Resilience Assessment and Vulnerability Analysis of Beijing Public Transportation System 
+[executive summary](https://github.com/sj156/transAI/blob/main/capstone-assets/%E6%AD%A3%E5%BC%8F2%E9%A1%B5%E7%89%88ppt.pdf)
 
 -- 
 ## MPhil projects 
