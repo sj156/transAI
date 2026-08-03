@@ -13,11 +13,10 @@ Our work spans traffic flow modeling and forecasting, public transit network eva
 
 # People 
 ## Faculty 
-Sheng Jiang [CUHK(SZ) profile](https://sds.cuhk.edu.cn/en/teacher/1745) 
+Sheng Jiang, Assistant Professor, School of Data Science, CUHK-Shenzhen [CUHK(SZ) profile](https://sds.cuhk.edu.cn/en/teacher/1745) 
 
-Ying Wu 
+Ying Wu, Assistant Professor, Beijing University Of Posts and Telecommunications
 
-Yu'ang Chen 
 
 ## Current Students 
 - Jingning Yao (PhD student, 2025 -- )
@@ -36,7 +35,7 @@ Yu'ang Chen
 
 # Projects and Publications 
 
-## Capstone projects
+## UG Capstone projects (DDA 4080)
 2025 Spring, 
 - Traffic Congestion Tracing and Evolution Analysis Based on Simulated Individual Trajectory Data. 
 [Poster](https://github.com/sj156/transAI/blob/main/capstone-assets/2025SpringCapstonePoster.pdf) 
@@ -45,7 +44,12 @@ Yu'ang Chen
 - Resilience Assessment and Vulnerability Analysis of Beijing Public Transportation System. 
 [Poster](https://github.com/sj156/transAI/blob/main/capstone-assets/2026SpringCapstonePosterSys.pdf)  
 
--  
+-  Estimation of Time-varying OD Matrices for
+Metro Systems in Megacities
+[Poster](https://github.com/sj156/transAI/blob/main/capstone-assets/2026SpringCapstonePoster1km.pdf)
+
+2027 Spring, 
+
 ## MPhil projects 
 
 ## Papers 
