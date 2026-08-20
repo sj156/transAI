@@ -21,8 +21,6 @@ Ying Wu, Assistant Professor, Beijing University Of Posts and Telecommunications
 ## Current Students 
 - Jingning Yao (PhD student, 2025 -- )
 
-- Ke Zhao (PhD student, 2025 -- )
-
 - Bo Peng (MPhil student, 2026 -- )
 
 - Ziyang Gong (MPhil student, 2026 -- ) 
