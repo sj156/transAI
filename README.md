@@ -21,11 +21,13 @@ Ying Wu, Assistant Professor, Beijing University Of Posts and Telecommunications
 ## Current Students 
 - Jingning Yao (PhD in Data Science, 2025 -- )
 
-- Bo Peng (MPhil in AI, 2026 -- )
-
 - Jinghan Hu (UG, 2025 -- )
 
 - Chengkun Luo (UG, 2025 -- )
+
+- Bo Peng (MPhil in AI, 2026 -- )
+
+- Ziyang Gong (MPhil in AI, 2026 -- )
 
 - Ruyu Xu (MS in Data Science, 2026 -- )
 
